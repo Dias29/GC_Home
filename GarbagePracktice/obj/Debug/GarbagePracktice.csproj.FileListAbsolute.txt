@@ -1,0 +1,6 @@
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\GarbagePracktice\GarbagePracktice\bin\Debug\GarbagePracktice.exe.config
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\GarbagePracktice\GarbagePracktice\bin\Debug\GarbagePracktice.exe
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\GarbagePracktice\GarbagePracktice\bin\Debug\GarbagePracktice.pdb
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\GarbagePracktice\GarbagePracktice\obj\Debug\GarbagePracktice.csprojResolveAssemblyReference.cache
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\GarbagePracktice\GarbagePracktice\obj\Debug\GarbagePracktice.exe
+c:\users\уринбасаровд\documents\visual studio 2017\Projects\GarbagePracktice\GarbagePracktice\obj\Debug\GarbagePracktice.pdb
